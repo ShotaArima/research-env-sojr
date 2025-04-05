@@ -1,0 +1,14 @@
+[project]
+name = "uv-research-env"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy==1.20.1",
+    "pandas==1.2.4",
+    "scikit-learn==0.23.1",
+    "scipy==1.6.2",
+    "torch==1.8",
+    "tqdm==4.32.1",
+]
